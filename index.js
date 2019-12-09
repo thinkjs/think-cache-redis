@@ -65,6 +65,15 @@ class RedisCache {
       return this.redis.deleteRegKey(key);
     }
   }
+
+  /**
+   * delete Regular expressions key
+   * @param regKey
+   * @return {Promise}     [description]
+   */
+  deleteRegKeys(regKey) {
+    return this.redis.deleteRegKey(regKey);
+  }
 }
 
 module.exports = RedisCache;
