@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-cache-redis.
+
 # think-cache-redis
 [![Build Status](https://travis-ci.org/thinkjs/think-cache-redis.svg?branch=master)](https://travis-ci.org/thinkjs/think-cache-redis)
 [![Coverage Status](https://coveralls.io/repos/github/thinkjs/think-cache-redis/badge.svg?branch=master)](https://coveralls.io/github/thinkjs/think-cache-redis?branch=master)
